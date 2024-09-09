@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Web Development",
+    "category": "Programming",
+    "difficulty": "Beginner",
+    "duration": "3 months"
+  },
+  {
+    "id": 2,
+    "name": "Data Science",
+    "category": "Data Analysis",
+    "difficulty": "Intermediate",
+    "duration": "6 months"
+  },
+  {
+    "id": 3,
+    "name": "Machine Learning",
+    "category": "AI",
+    "difficulty": "Advanced",
+    "duration": "8 months"
+  },
+  {
+    "id": 4,
+    "name": "Digital Marketing",
+    "category": "Marketing",
+    "difficulty": "Beginner",
+    "duration": "2 months"
+  },
+  {
+    "id": 5,
+    "name": "Cybersecurity",
+    "category": "Security",
+    "difficulty": "Intermediate",
+    "duration": "4 months"
+  },
+  {
+    "id": 6,
+    "name": "Graphic Design",
+    "category": "Design",
+    "difficulty": "Beginner",
+    "duration": "3 months"
+  }
+]
